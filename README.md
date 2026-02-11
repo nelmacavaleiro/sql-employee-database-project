@@ -19,7 +19,7 @@ Each record includes:
 
 The dataset supports salary analysis, departmental comparisons, and workforce metrics.
 
-# Key Analytical Insights
+# Key Insights
 - Total number of employees: **50**
 - Total salary cost: **£219,408.24**
 - Average salary: **£4,388.16**
